@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, withRouter, RouteComponentProps } from 'react-router-dom'
 import CTA from '../styled/CTA'
 import { Accent, StyledTitle } from '../styled/Random'
 

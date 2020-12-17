@@ -7,5 +7,6 @@ export const Container = styled.div`
     align-items: center;
     margin-top: 20px;
     max-width: 800px;
+    width: 100%;
     border: 1px solid red;
 `

@@ -28,6 +28,7 @@ export const StyledCharacter = styled.p`
     font-size: 15rem;
     grid-row: 2;
     grid-column: 1/4;
+    color: #e16365;
 `
 
 export const Strong = styled.strong`
