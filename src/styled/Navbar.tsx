@@ -33,7 +33,3 @@ export const StyledLink = styled(Link)`
         color: #e16365;
     }
 `
-
-export const Accent = styled.span`
-    color: #e16365;
-`
